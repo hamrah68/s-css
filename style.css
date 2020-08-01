@@ -1,0 +1,32 @@
+body {
+  background-image: url(backgroundimage.jpg);
+  background-size: 1000px;
+  font-family: 'Lobster', cursive;
+}
+
+h2,
+p {
+  color: red;
+  text-align: center;
+  border: 3px solid rgba(253, 134, 120, 0.631);
+  font-size: 2rem;
+
+  box-shadow: 1px 3px 5px 6px rgba(207, 129, 129, 0.524);
+  cursor: grab;
+}
+
+li {
+  list-style: none;
+}
+.text {
+  color: black;
+  border: 2px burlywood;
+  font-size: 20px;
+  text-align: justify;
+}
+.active {
+  color: rgb(17, 135, 238);
+}
+#div1 {
+  background-color: khaki;
+}
