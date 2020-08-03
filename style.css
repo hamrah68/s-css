@@ -18,15 +18,32 @@ p {
 li {
   list-style: none;
 }
+
 .text {
   color: black;
   border: 2px burlywood;
   font-size: 20px;
   text-align: justify;
 }
+
 .active {
   color: rgb(17, 135, 238);
 }
+
 #div1 {
   background-color: khaki;
+}
+
+.boxmodel {
+  border: 5px solid blue;
+  display: inline-block;
+  padding: 8px 8px;
+  margin: 4px 10px;
+}
+
+.khodani {
+  width: 250px;
+  float: left;
+  margin: 10px 10px;
+
 }
