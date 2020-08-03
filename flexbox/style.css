@@ -1,0 +1,23 @@
+.pic {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-around;
+
+}
+
+H1 {
+    font-family: fantasy;
+    font-size: 3em;
+    border-bottom: 3px solid salmon;
+    border-right: 3px solid salmon;
+    box-shadow: 1px 3px rgba(216, 112, 147, 0.546);
+    width: 400px;
+    text-align: center;
+}
+
+img {
+    width: 450px;
+    height: 300px;
+    margin: 5px;
+}
